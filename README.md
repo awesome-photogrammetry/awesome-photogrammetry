@@ -42,7 +42,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment)
 * [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730)
 
-## Conference papers on the web
+## Conference proceedings
 
 * [ISPRS Annals](https://www.isprs.org/publications/annals.aspx)
 * [ISPRS Archives](https://www.isprs.org/publications/archives.aspx)
