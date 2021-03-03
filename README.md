@@ -62,20 +62,6 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 * [ISPRS conferences](https://www.isprs.org/calendar/Default.aspx)
 
-## Organizations
-
-* [ISPRS - International Society for Photogrammetry and Remote Sensing](https://www.isprs.org)
-* [ASPRS - American Society for Photogrammetry and Remote Sensing](https://www.asprs.org)
-* [DGPF - German Society for Photogrammetry, Remote Sensing and Geoinformation](https://www.dgpf.de)
-
-## Research groups
-
-* [3DOM research unit @ FBK Trento](https://3dom.fbk.eu)
-* [Institute for Photogrammetry @ University of Stuttgart](https://www.ifp.uni-stuttgart.de)
-* [Institute of Geodesy and Photogrammetry @ ETH Zurich](https://igp.ethz.ch)
-* [Institute of Photogrammetry and Geoinformation @ University of Hannover](https://www.ipi.uni-hannover.de)
-* [Research Division Photogrammetry @ TU Wien](https://photo.geo.tuwien.ac.at)
-
 ## Related awesome lists
 
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbhuang0604/awesome-computer-vision/)
