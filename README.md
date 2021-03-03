@@ -80,6 +80,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
+* [Awesome 3D Reconstruction](https://github.com/erupnik/awesome_3DReconstruction_list)
 
 ## License
 
