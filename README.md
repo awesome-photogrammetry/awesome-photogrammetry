@@ -38,8 +38,9 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * [Open ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-open-journal-of-photogrammetry-and-remote-sensing)
 * [Photogrammetric Engineering & Remote Sensing (PE&RS)](https://www.asprs.org/asprs-publications/pers)
 * [PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science](https://www.springer.com/journal/41064)
-* [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730)
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing)
+* [Remote Sensing of Environment] (https://www.journals.elsevier.com/remote-sensing-of-environment)
+* [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730)
 
 ## Conference papers on the web
 
