@@ -52,6 +52,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * [Close-Range Photogrammetry and 3D Imaging](https://www.degruyter.com/view/title/539949) by T. Luhmann, S. Robson, S. Kyle and J. Boehm (2014)
 * [Photogrammetric Computer Vision](https://www.springer.com/de/book/9783319115498) by W. Förstner and B. P. Wrobel (2016)
 * [Photogrammetrie und Fernerkundung](https://www.springer.com/de/book/9783662470930) (german) by C. Heipke (editor) (2017)
+* [Photogrammetry - Geometry from Images and Laser Scans](https://doi.org/10.1515/9783110892871) by K. Kraus (2011)
 
 ## Review papers
 
