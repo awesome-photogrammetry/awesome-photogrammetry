@@ -27,8 +27,9 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/)
 * ![Open-Source Software][OSS Icon] [VisualSFM](http://ccwu.me/vsfm/)
 
-## Camera calibration software
+## Calibration software
 
+* ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/)
 * ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/)
 
 ## Journals
