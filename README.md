@@ -28,7 +28,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Camera calibration software
 
-* ![Open-Source Software][OSS Icon] [mrcal](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/)
+* ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/)
 
 ## Courses
 
