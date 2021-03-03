@@ -56,6 +56,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Review papers
 
+* [UAV for 3D mapping applications: a review](https://link.springer.com/article/10.1007/s12518-013-0120-x) by F. Nex and F. Remondino (2013)
 * [Unmanned aerial systems for photogrammetry and remote sensing: A review](https://www.sciencedirect.com/science/article/pii/S0924271614000501) by I. Colomina and P. Molina (2014)
 
 ## Courses
