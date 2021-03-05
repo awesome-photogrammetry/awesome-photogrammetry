@@ -76,6 +76,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbhuang0604/awesome-computer-vision/)
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) [![GitHub stars](https://img.shields.io/github/stars/sacridini/Awesome-Geospatial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sacridini/Awesome-Geospatial/)
+* [Awesome Lidar](https://github.com/szenergy/awesome-lidar) [![GitHub stars](https://img.shields.io/github/stars/szenergy/awesome-lidar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/szenergy/awesome-lidar/)
 * [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) [![GitHub stars](https://img.shields.io/github/stars/openMVG/awesome_3DReconstruction_list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openMVG/awesome_3DReconstruction_list/)
 
 ## License
