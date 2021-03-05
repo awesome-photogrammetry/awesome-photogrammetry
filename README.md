@@ -32,8 +32,9 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/) - multi-camera, visual-inertial and rolling shutter camera calibration toolbox
 * ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/) - toolkit for camera calibration and more
 
-## Benchmarks and training data
+## Datasets and benchmarks
 
+* [Bundle adjustment in the large](https://grail.cs.washington.edu/projects/bal/) - Bundle adjustment data sets for five different scenes (2010)
 * [Hessigheim 3D (H3D) benchmark](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx) - Benchmark on semantic segmentation of high-resolution 3D point clouds and textured meshes (2021)
 
 ## Journals
