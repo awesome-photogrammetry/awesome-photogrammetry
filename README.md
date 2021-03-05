@@ -21,16 +21,16 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Structure from motion (SFM) software
 
-* ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/)
-* ![Open-Source Software][OSS Icon] [Meshroom](https://github.com/alicevision/meshroom) [![GitHub stars](https://img.shields.io/github/stars/alicevision/meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/meshroom/)
-* ![Open-Source Software][OSS Icon] [openMVG](https://github.com/openMVG/openMVG) [![GitHub stars](https://img.shields.io/github/stars/openMVG/openMVG.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/openMVG/openMVG/)
-* ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/)
+* ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/) - Structure-from-Motion and Multi-View Stereo
+* ![Open-Source Software][OSS Icon] [Meshroom](https://github.com/alicevision/meshroom) [![GitHub stars](https://img.shields.io/github/stars/alicevision/meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/meshroom/) - 3D Reconstruction Software
+* ![Open-Source Software][OSS Icon] [openMVG](https://github.com/openMVG/openMVG) [![GitHub stars](https://img.shields.io/github/stars/openMVG/openMVG.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/openMVG/openMVG/) - Multiple View Geometry library
+* ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/) - Structure from Motion library written in Python
 * ![Open-Source Software][OSS Icon] [VisualSFM](http://ccwu.me/vsfm/)
 
 ## Calibration software
 
-* ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/)
-* ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/)
+* ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/) - multi-camera, visual-inertial and rolling shutter camera calibration toolbox
+* ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/) - toolkit for camera calibration and more
 
 ## Journals
 
@@ -61,7 +61,9 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Courses and tutorials
 
-* [Photogrammetry I course by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015)
+* [Photogrammetry I course by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015) 
+* [Photogrammetry II course by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQEXN2Qo571uvwIGNGAM8uf) (2020)
+* 
 
 ## Scientific conferences
 
