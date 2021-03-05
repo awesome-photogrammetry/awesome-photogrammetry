@@ -40,13 +40,13 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Journals
 
-* [ISPRS Journal of Photogrammetry and Remote Sensing (IF=3.006)](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
+* [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (IF=3.006)
 * [Open ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-open-journal-of-photogrammetry-and-remote-sensing)
-* [Photogrammetric Engineering & Remote Sensing (PE&RS) (IF=1.425)](https://www.asprs.org/asprs-publications/pers)
-* [PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science (IF=0.682)](https://www.springer.com/journal/41064)
-* [Remote Sensing (IF=1.661)](https://www.mdpi.com/journal/remotesensing)
-* [Remote Sensing of Environment (IF=2.943)](https://www.journals.elsevier.com/remote-sensing-of-environment)
-* [The Photogrammetric Record (IF=1.758)](https://onlinelibrary.wiley.com/journal/14779730)
+* [Photogrammetric Engineering & Remote Sensing (PE&RS)](https://www.asprs.org/asprs-publications/pers) (IF=1.425)
+* [PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science](https://www.springer.com/journal/41064) (IF=0.682)
+* [Remote Sensing](https://www.mdpi.com/journal/remotesensing) (IF=1.661)
+* [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (IF=2.943)
+* [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730) (IF=1.758)
 
 Last update of impact factors (IF) according to www.journalguide.com: 2021-03-05
 
