@@ -49,7 +49,7 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 * [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (SNIF=2.943)
 * [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730) (SNIF=1.758)
 
-Last update of source normalized impact factors (SNIF) according to www.journalguide.com: 2021-03-05
+Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.org/wiki/Journal_ranking#SNIP) according to www.journalguide.com: 2021-03-05
 
 ## Conference proceedings
 
