@@ -6,6 +6,14 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software and
 
 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
+## Definition
+
+Definition of **photogrammetry** according to K. Schindler and W. Förstner:
+
+> "Photogrammetry is the science and technology of obtaining information about the physical environment from images, with a focus on applications in surveying, mapping and high-precision metrology. The aim of photogrammetry is to provide automated or semi-automated procedures for these engineering tasks, with emphasis on a specified accuracy, reliability, and completeness of the information."
+
+Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Photogrammetry%202020.pdf) by K. Schindler and W. Förstner (2020). In: [Computer Vision: A Reference Guide, 2nd edition](https://www.springer.com/gp/book/9783030634155).
+
 ## Photogrammetric software
 
 * ![Commercial Software][Money Icon] [Agisoft Metashape](https://www.agisoft.com)
