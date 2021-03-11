@@ -23,8 +23,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Commercial Software][Money Icon] [Pix4D](https://www.pix4d.com)
 * ![Commercial Software][Money Icon] [RealityCapture](https://www.capturingreality.com)
 * ![Commercial Software][Money Icon] [SURE by nFrames](https://www.nframes.com)
-* ![Open-Source Software][OSS Icon] [
-TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/)
+* ![Open-Source Software][OSS Icon] [TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/)
 * ![Commercial Software][Money Icon] [Trimble Inpho](https://geospatial.trimble.com/products-and-solutions/inpho)
 
 ## Structure from motion (SFM) software
@@ -44,10 +43,10 @@ TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://
 
 ## Least squares optimization libraries
 
-* ![Open-Source Software][OSS Icon] [Ceres solver](http://ceres-solver.org) [![GitHub stars](https://img.shields.io/github/stars/ceres-solver/ceres-solver.svg?style=social&label=Star&maxAge=2592000)] - C++ library for modeling and solving large, complicated optimization problems.
-* ![Open-Source Software][OSS Icon] [dlib/optimization](http://dlib.net/optimization.html) [![GitHub stars](https://img.shields.io/github/stars/davisking/dlib.svg?style=social&label=Star&maxAge=2592000)] - C++ toolkit which provides also functions for solving least-squares problems.
-* ![Open-Source Software][OSS Icon] [lmfit](https://lmfit.github.io/lmfit-py/) [![GitHub stars](https://img.shields.io/github/stars/lmfit/lmfit-py.svg?style=social&label=Star&maxAge=2592000)] - Python package which builds on and extends many of the optimization methods of [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html).
-* ![Open-Source Software][OSS Icon] [scipy.optimize.least_squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html) [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy.svg?style=social&label=Star&maxAge=2592000)] - Powerful least-squares optimization function for python.
+* ![Open-Source Software][OSS Icon] [Ceres solver](http://ceres-solver.org) [![GitHub stars](https://img.shields.io/github/stars/ceres-solver/ceres-solver.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ceres-solver/ceres-solver) - C++ library for modeling and solving large, complicated optimization problems.
+* ![Open-Source Software][OSS Icon] [dlib/optimization](http://dlib.net/optimization.html) [![GitHub stars](https://img.shields.io/github/stars/davisking/dlib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/davisking/dlib) - C++ toolkit which provides also functions for solving least-squares problems.
+* ![Open-Source Software][OSS Icon] [lmfit](https://lmfit.github.io/lmfit-py/) [![GitHub stars](https://img.shields.io/github/stars/lmfit/lmfit-py.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lmfit/lmfit-py) - Python package which builds on and extends many of the optimization methods of [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html).
+* ![Open-Source Software][OSS Icon] [scipy.optimize.least_squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html) [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipy/scipy) - Powerful least-squares optimization function for python.
 * ![Commercial Software][Money Icon] [Matlab/OptimizationToolbox](https://www.mathworks.com/products/optimization.html) - Toolbox for local optimizations, including functions for solving least squares problems.
 
 ## Datasets and benchmarks
