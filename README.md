@@ -10,7 +10,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 - [Definition](#definition)
 - [Photogrammetric software](#photogrammetric-software)
-- [Structure from motion (SFM) software](#structure-from-motion-(sfm)-software)
+- [Structure from motion (SFM) software](#structure-from-motion-sfm-software)
 - [Calibration software](#calibration-software)
 - [Least squares optimization libraries](#least-squares-optimization-libraries)
 - [Datasets and benchmarks](#datasets-and-benchmarks)
@@ -132,8 +132,3 @@ Icons created by <a href="https://www.flaticon.com/authors/pixel-perfect" title=
 
 [OSS Icon]: ./img/oss.svg
 [Money Icon]: ./img/money.svg
-
-## Todo
-
-- [ ] ToC
-- [ ] Add short description for each item
