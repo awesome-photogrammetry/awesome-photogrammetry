@@ -66,6 +66,9 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [lmfit](https://lmfit.github.io/lmfit-py/) [![GitHub stars](https://img.shields.io/github/stars/lmfit/lmfit-py.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lmfit/lmfit-py) - Python package which builds on and extends many of the optimization methods of [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)
 * ![Open-Source Software][OSS Icon] [scipy.optimize.least_squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html) [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipy/scipy) - Powerful least-squares optimization function for python
 * ![Commercial Software][Money Icon] [Matlab/OptimizationToolbox](https://www.mathworks.com/products/optimization.html) - Toolbox for local optimizations, including functions for solving least squares problems
+* ![Open-Source Software][OSS Icon] [GTSAM](https://gtsam.org/) [![GitHub stars](https://img.shields.io/github/stars/borglab/gtsam?style=social&label=Star&maxAge=2592000)](https://github.com/borglab/gtsam) - C++ library for factor graphs and bayes networks optimizations towars SLAM, VO and SFM
+* ![Open-Source Software][OSS Icon] [g2o](https://github.com/RainerKuemmerle/g2o) [![GitHub stars](https://img.shields.io/github/stars/RainerKuemmerle/g2o?style=social&label=Star&maxAge=2592000)](https://github.com/RainerKuemmerle/g2o) - Open-source C++ framework for optimizing graph-based nonlinear error functions
+
 
 ## Datasets and benchmarks
 
