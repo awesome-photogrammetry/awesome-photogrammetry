@@ -10,7 +10,19 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 - [Definition](#definition)
 - [Photogrammetric software](#photogrammetric-software)
-
+- [Structure from motion (SFM) software](#structure-from-motion-(sfm)-software)
+- [Calibration software](#calibration-software)
+- [Least squares optimization libraries](#least-squares-optimization-libraries)
+- [Datasets and benchmarks](#datasets-and-benchmarks)
+- [Journals](#journals)
+- [Conference proceedings](#conference-proceedings)
+- [Books](#books)
+- [Introductory and review papers](#introductory-and-review-papers)
+- [Courses and tutorials](#courses-and-tutorials)
+- [Scientific conferences](#scientific-conferences)
+- [Related awesome lists](#related-awesome-lists)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Definition
 
@@ -85,7 +97,7 @@ Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.or
 * [Photogrammetrie und Fernerkundung](https://www.springer.com/de/book/9783662470930) (german) by C. Heipke (editor) (2017)
 * [Photogrammetry - Geometry from Images and Laser Scans](https://doi.org/10.1515/9783110892871) by K. Kraus (2011)
 
-## Introductory and review papers 
+## Introductory and review papers
 
 * [Mathematical foundations of photogrammetry](https://www.research-collection.ethz.ch/handle/20.500.11850/93024) by K. Schindler (2014)
 * [UAV for 3D mapping applications: a review](https://link.springer.com/article/10.1007/s12518-013-0120-x) by F. Nex and F. Remondino (2013)
