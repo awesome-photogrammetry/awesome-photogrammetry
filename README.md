@@ -35,7 +35,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 ## Photogrammetric software
 
 * ![Commercial Software][Money Icon] [Agisoft Metashape](https://www.agisoft.com)
-* ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)
+* ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)[![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/micmacIGN/micmac/)
 * ![Open-Source Software][OSS Icon] [MVE](https://github.com/simonfuhrmann/mve) [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/simonfuhrmann/mve/)
 * ![Open-Source Software][OSS Icon] [OpenDroneMap](https://github.com/OpenDroneMap/ODM) [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/OpenDroneMap/ODM/)
 * ![Commercial Software][Money Icon] [Pix4D](https://www.pix4d.com)
