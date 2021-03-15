@@ -46,6 +46,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Structure from motion (SFM) software
 
+* ![Open-Source Software][OSS Icon] [BoofCV](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/lessthanoptimal/boofcv.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/lessthanoptimal/BoofCV/) - Includes Structure-from-Motion, Multi-View Stereo, and Android Support
 * ![Open-Source Software][OSS Icon] [Bundler](https://github.com/snavely/bundler_sfm/) [![GitHub stars](https://img.shields.io/github/stars/snavely/bundler_sfm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/snavely/bundler_sfm/) - SFM system for unordered image collections
 * ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/) - Structure-from-Motion and Multi-View Stereo
 * ![Open-Source Software][OSS Icon] [Meshroom](https://github.com/alicevision/meshroom) [![GitHub stars](https://img.shields.io/github/stars/alicevision/meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/meshroom/) - 3D Reconstruction Software
@@ -55,6 +56,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Calibration software
 
+* ![Open-Source Software][OSS Icon] [BoofCV](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/lessthanoptimal/boofcv.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/lessthanoptimal/BoofCV/) Single, Stereo, Guided Calibration, Multi-view Self Calibration, Many Fiducals, Many Camera Models, Command line and GUI
 * ![Open-Source Software][OSS Icon] [camera_calibration](https://github.com/puzzlepaint/camera_calibration) [![GitHub stars](https://img.shields.io/github/stars/puzzlepaint/camera_calibration.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puzzlepaint/camera_calibration/) - Accurate geometric camera calibration
 * ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/) - Multi-camera, visual-inertial and rolling shutter camera calibration toolbox
 * ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/) - Toolkit for camera calibration and more
