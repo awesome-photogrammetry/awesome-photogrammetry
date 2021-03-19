@@ -109,8 +109,9 @@ Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.or
 
 ## Courses and tutorials
 
-* [Photogrammetry I course by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015) 
-* [Photogrammetry II course by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQEXN2Qo571uvwIGNGAM8uf) (2020)
+* ["Online Training – Photogrammetric Computer Vision" by Cyrill Stachniss at the University of Bonn](https://www.ipb.uni-bonn.de/online-training-pcv) (2021)
+* ["Photogrammetry I" by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015) 
+* ["Photogrammetry II" by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQEXN2Qo571uvwIGNGAM8uf) (2020)
 
 ## Scientific conferences
 
