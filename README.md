@@ -8,21 +8,22 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 # Table of Contents
 
-- [Definition](#definition)
-- [Photogrammetric software](#photogrammetric-software)
-- [Structure from motion (SFM) software](#structure-from-motion-sfm-software)
-- [Calibration software](#calibration-software)
-- [Least squares optimization libraries](#least-squares-optimization-libraries)
-- [Datasets and benchmarks](#datasets-and-benchmarks)
-- [Journals](#journals)
-- [Conference proceedings](#conference-proceedings)
-- [Books](#books)
-- [Introductory and review papers](#introductory-and-review-papers)
-- [Courses and tutorials](#courses-and-tutorials)
-- [Scientific conferences](#scientific-conferences)
-- [Related awesome lists](#related-awesome-lists)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Table of Contents](#table-of-contents)
+  - [Definition](#definition)
+  - [Photogrammetric software](#photogrammetric-software)
+  - [Structure from motion (SFM) software](#structure-from-motion-sfm-software)
+  - [Calibration software](#calibration-software)
+  - [Least squares optimization libraries](#least-squares-optimization-libraries)
+  - [Datasets and benchmarks](#datasets-and-benchmarks)
+  - [Journals](#journals)
+  - [Conference proceedings](#conference-proceedings)
+  - [Books](#books)
+  - [Introductory and review papers](#introductory-and-review-papers)
+  - [Courses and tutorials](#courses-and-tutorials)
+  - [Scientific conferences](#scientific-conferences)
+  - [Related awesome lists](#related-awesome-lists)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Definition
 
@@ -111,7 +112,7 @@ Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.or
 ## Courses and tutorials
 
 * ["Online Training – Photogrammetric Computer Vision" by Cyrill Stachniss at the University of Bonn](https://www.ipb.uni-bonn.de/online-training-pcv) (2021)
-* ["Photogrammetry I" by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015) 
+* ["Photogrammetry I" by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (2015)
 * ["Photogrammetry II" by Cyrill Stachniss at the University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQEXN2Qo571uvwIGNGAM8uf) (2020)
 
 ## Scientific conferences
@@ -123,7 +124,8 @@ Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.or
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbhuang0604/awesome-computer-vision/)
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) [![GitHub stars](https://img.shields.io/github/stars/sacridini/Awesome-Geospatial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sacridini/Awesome-Geospatial/)
 * [Awesome Lidar](https://github.com/szenergy/awesome-lidar) [![GitHub stars](https://img.shields.io/github/stars/szenergy/awesome-lidar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/szenergy/awesome-lidar/)
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)[![GitHub stars](https://img.shields.io/github/stars/kiloreux/awesome-robotics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiloreux/awesome-robotics/)
+* [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) [![GitHub stars](https://img.shields.io/github/stars/softwareunderground/awesome-open-geoscience.svg?style=social&label=Star&maxAge=2592000)](https://github.com/softwareunderground/awesome-open-geoscience/)
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) [![GitHub stars](https://img.shields.io/github/stars/kiloreux/awesome-robotics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiloreux/awesome-robotics/)
 * [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) [![GitHub stars](https://img.shields.io/github/stars/openMVG/awesome_3DReconstruction_list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openMVG/awesome_3DReconstruction_list/)
 
 ## License
