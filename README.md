@@ -90,6 +90,10 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.org/wiki/Journal_ranking#SNIP) according to www.journalguide.com: 2021-03-05
 
+See also:
+
+* [Top cited journals/proceedings at Google Scholar for Remote Sensing](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_remotesensing)
+
 ## Conference proceedings
 
 * [ISPRS Annals](https://www.isprs.org/publications/annals.aspx)
