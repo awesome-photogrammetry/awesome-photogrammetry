@@ -132,6 +132,8 @@ See also:
 * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) [![GitHub stars](https://img.shields.io/github/stars/softwareunderground/awesome-open-geoscience.svg?style=social&label=Star&maxAge=2592000)](https://github.com/softwareunderground/awesome-open-geoscience/)
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) [![GitHub stars](https://img.shields.io/github/stars/kiloreux/awesome-robotics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiloreux/awesome-robotics/)
 * [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) [![GitHub stars](https://img.shields.io/github/stars/openMVG/awesome_3DReconstruction_list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openMVG/awesome_3DReconstruction_list/)
+* [Awesome Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) [![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Yochengliu/awesome-point-cloud-analysis/)
+
 
 ## License
 
