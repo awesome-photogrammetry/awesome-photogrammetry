@@ -80,6 +80,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Journals
 
+* [ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)
 * [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (SNIF=3.006)
 * [Open ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-open-journal-of-photogrammetry-and-remote-sensing)
 * [Photogrammetric Engineering & Remote Sensing (PE&RS)](https://www.asprs.org/asprs-publications/pers) (SNIF=1.425)
