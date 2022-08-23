@@ -134,6 +134,8 @@ See also:
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) [![GitHub stars](https://img.shields.io/github/stars/kiloreux/awesome-robotics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiloreux/awesome-robotics/)
 * [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) [![GitHub stars](https://img.shields.io/github/stars/openMVG/awesome_3DReconstruction_list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openMVG/awesome_3DReconstruction_list/)
 * [Awesome Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) [![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Yochengliu/awesome-point-cloud-analysis/)
+* [Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) [![GitHub stars](https://img.shields.io/github/stars/mikeroyal/Photogrammetry-Guide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mikeroyal/Photogrammetry-Guide)
+
 
 
 ## License
