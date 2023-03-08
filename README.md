@@ -36,6 +36,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 ## Photogrammetric software
 
 * ![Commercial Software][Money Icon] [Agisoft Metashape](https://www.agisoft.com) - Process digital images and generate 3D spatial data
+* ![Open-Source Software][OSS Icon] [Meshroom](https://alicevision.org)[![GitHub stars](https://img.shields.io/github/stars/alicevision/Meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/Meshroom) - A user-friendly 3D Computer Vision software
 * ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)[![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/micmacIGN/micmac/) - A free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios
 * ![Open-Source Software][OSS Icon] [MVE](https://github.com/simonfuhrmann/mve) [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/simonfuhrmann/mve/) - Includes Structure from Motion, Multi-View Stereo and Surface Reconstruction
 * ![Open-Source Software][OSS Icon] [OpenDroneMap](https://github.com/OpenDroneMap/ODM) [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/OpenDroneMap/ODM/) - An open source command line toolkit for processing aerial drone imagery
@@ -48,10 +49,10 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Structure from motion (SFM) software
 
+* ![Open-Source Software][OSS Icon] [AliceVision](https://github.com/alicevision/AliceVision) [![GitHub stars](https://img.shields.io/github/stars/alicevision/AliceVision.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/AliceVision/) - 3D Computer Vision framework including Structure-from-Motion, Multi-View Stereo and surface reconstruction
 * ![Open-Source Software][OSS Icon] [BoofCV](https://boofcv.org/) [![GitHub stars](https://img.shields.io/github/stars/lessthanoptimal/boofcv.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/lessthanoptimal/BoofCV/) - Includes SFM, Multi-View Stereo, Android Support and various calibration tasks
 * ![Open-Source Software][OSS Icon] [Bundler](https://github.com/snavely/bundler_sfm/) [![GitHub stars](https://img.shields.io/github/stars/snavely/bundler_sfm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/snavely/bundler_sfm/) - SFM system for unordered image collections
 * ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/) - Structure-from-Motion and Multi-View Stereo
-* ![Open-Source Software][OSS Icon] [Meshroom](https://github.com/alicevision/meshroom) [![GitHub stars](https://img.shields.io/github/stars/alicevision/meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/meshroom/) - 3D Reconstruction Software
 * ![Open-Source Software][OSS Icon] [openMVG](https://github.com/openMVG/openMVG) [![GitHub stars](https://img.shields.io/github/stars/openMVG/openMVG.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/openMVG/openMVG/) - Multiple View Geometry library
 * ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/) - Structure from Motion library written in Python
 * ![Open-Source Software][OSS Icon] [VisualSFM](http://ccwu.me/vsfm/) - GUI application for 3D reconstruction using SFM
