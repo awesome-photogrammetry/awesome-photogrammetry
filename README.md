@@ -46,6 +46,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Commercial Software][Money Icon] [SURE by nFrames](https://www.nframes.com) - Software for 3D reconstruction from images with unique performance and flexibility
 * ![Open-Source Software][OSS Icon] [TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/) - A cross-platform desktop application for photogrammetry
 * ![Commercial Software][Money Icon] [Trimble Inpho](https://geospatial.trimble.com/products-and-solutions/inpho) - Industry Leading Software for Digital Photogrammetry
+* ![Commercial Software][Money Icon] [Beholder Desktop](https://beholder.vision/desktop) - Easy to use photogrammetry software, free for personal, non-commercial use. Also available as a SaaS.
 
 ## Structure from motion (SFM) software
 
