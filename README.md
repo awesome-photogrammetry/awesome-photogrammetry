@@ -36,6 +36,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 ## Photogrammetric software
 
 * ![Commercial Software][Money Icon] [Agisoft Metashape](https://www.agisoft.com) - Process digital images and generate 3D spatial data
+* ![Commercial Software][Money Icon] [Beholder Desktop](https://beholder.vision/desktop) - Easy to use photogrammetry software, free for personal, non-commercial use. Also available as a SaaS.
 * ![Open-Source Software][OSS Icon] [Meshroom](https://alicevision.org)[![GitHub stars](https://img.shields.io/github/stars/alicevision/Meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/Meshroom) - A user-friendly 3D Computer Vision software
 * ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)[![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/micmacIGN/micmac/) - A free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios
 * ![Open-Source Software][OSS Icon] [MVE](https://github.com/simonfuhrmann/mve) [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/simonfuhrmann/mve/) - Includes Structure from Motion, Multi-View Stereo and Surface Reconstruction
