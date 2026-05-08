@@ -12,6 +12,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
   - [Definition](#definition)
   - [Photogrammetric software](#photogrammetric-software)
   - [Structure from motion (SFM) software](#structure-from-motion-sfm-software)
+  - [Gaussian splatting software](#gaussian-splatting-software)
   - [Calibration software](#calibration-software)
   - [Least squares optimization libraries](#least-squares-optimization-libraries)
   - [Datasets and benchmarks](#datasets-and-benchmarks)
@@ -62,6 +63,20 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [openMVS](https://github.com/cdcseacave/openMVS) [![GitHub stars](https://img.shields.io/github/stars/cdcseacave/openMVS.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/cdcseacave/openMVS/) - Open Multi-View Stereo reconstruction library
 * ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/) - Structure from Motion library written in Python
 * ![Open-Source Software][OSS Icon] [VisualSFM](http://ccwu.me/vsfm/) - GUI application for 3D reconstruction using SFM
+
+## Gaussian splatting software
+
+* ![Open-Source Software][OSS Icon] [3D Gaussian Splatting (Inria reference)](https://github.com/graphdeco-inria/gaussian-splatting) [![GitHub stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graphdeco-inria/gaussian-splatting/) - Reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" (SIGGRAPH 2023)
+* ![Commercial Software][Money Icon] [DJI Terra](https://enterprise.dji.com/dji-terra) - Drone mapping software with built-in 3D Gaussian Splatting reconstruction alongside mesh and point cloud outputs
+* ![Open-Source Software][OSS Icon] [gsplat](https://github.com/nerfstudio-project/gsplat) [![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nerfstudio-project/gsplat/) - CUDA-accelerated rasterization library for 3D Gaussian Splatting
+* ![Open-Source Software][OSS Icon] [LichtFeld Studio](https://lichtfeld.io/) [![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MrNeRF/LichtFeld-Studio/) - Native desktop app to train, inspect, edit, automate, and export 3D Gaussian Splatting scenes
+* ![Commercial Software][Money Icon] [Luma AI](https://lumalabs.ai/) - Cloud-based 3D Gaussian Splatting from smartphone photos and video
+* ![Open-Source Software][OSS Icon] [Nerfstudio](https://docs.nerf.studio/) [![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nerfstudio-project/nerfstudio/) - Research framework for training NeRF and 3D Gaussian Splatting models
+* ![Open-Source Software][OSS Icon] [OpenSplat](https://github.com/pierotofy/OpenSplat) [![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pierotofy/OpenSplat/) - Production-grade 3D Gaussian Splatting in C++ with CPU/GPU support for Windows, Mac, and Linux
+* ![Commercial Software][Money Icon] [Polycam](https://poly.cam/tools/gaussian-splatting) - Mobile and cloud 3D scanning combining LiDAR, photogrammetry, and 3D Gaussian Splatting
+* ![Commercial Software][Money Icon] [Postshot](https://www.jawset.com/) - Desktop app for reconstructing 3D scenes from photos and video using NeRF and 3D Gaussian Splatting, processed locally without cloud
+* ![Commercial Software][Money Icon] [Scaniverse](https://scaniverse.com/) - On-device 3D Gaussian Splatting capture for iOS and Android (by Niantic)
+* ![Open-Source Software][OSS Icon] [SuperSplat](https://superspl.at/) [![GitHub stars](https://img.shields.io/github/stars/playcanvas/supersplat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/playcanvas/supersplat/) - Browser-based editor for 3D Gaussian Splatting scenes (by PlayCanvas)
 
 ## Calibration software
 
