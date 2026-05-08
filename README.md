@@ -35,19 +35,22 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Photogrammetric software
 
+* ![Commercial Software][Money Icon] [3DF Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/) - Photogrammetry software for automatic 3D reconstruction from photos
 * ![Commercial Software][Money Icon] [Agisoft Metashape](https://www.agisoft.com) - Process digital images and generate 3D spatial data
 * ![Commercial Software][Money Icon] [Beholder Desktop](https://beholder.vision/desktop) - Easy to use photogrammetry software, free for personal, non-commercial use. Also available as a SaaS.
+* ![Commercial Software][Money Icon] [ContextCapture](https://www.bentley.com/software/contextcapture/) - Produce 3D models of existing conditions from photographs and/or point clouds
 * ![Open-Source Software][OSS Icon] [Meshroom](https://alicevision.org)[![GitHub stars](https://img.shields.io/github/stars/alicevision/Meshroom.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/Meshroom) - A user-friendly 3D Computer Vision software
 * ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)[![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/micmacIGN/micmac/) - A free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios
 * ![Open-Source Software][OSS Icon] [MVE](https://github.com/simonfuhrmann/mve) [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/simonfuhrmann/mve/) - Includes Structure from Motion, Multi-View Stereo and Surface Reconstruction
 * ![Open-Source Software][OSS Icon] [OpenDroneMap](https://github.com/OpenDroneMap/ODM) [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/OpenDroneMap/ODM/) - An open source command line toolkit for processing aerial drone imagery
+* ![Commercial Software][Money Icon] [PhotoModeler](https://www.photomodeler.com) - Precise measurements and 3D models from photographs
 * ![Commercial Software][Money Icon] [Pix4D](https://www.pix4d.com) - A unique photogrammetry software suite for mobile and drone mapping
 * ![Commercial Software][Money Icon] [PixPro](https://www.pix-pro.com) - Professional photogrammetry for everyone
 * ![Commercial Software][Money Icon] [RealityCapture](https://www.capturingreality.com) - The state-of-the-art photogrammetry software solution that is changing the industry
 * ![Commercial Software][Money Icon] [SURE by nFrames](https://www.nframes.com) - Software for 3D reconstruction from images with unique performance and flexibility
 * ![Open-Source Software][OSS Icon] [TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/) - A cross-platform desktop application for photogrammetry
 * ![Commercial Software][Money Icon] [Trimble Inpho](https://geospatial.trimble.com/products-and-solutions/inpho) - Industry Leading Software for Digital Photogrammetry
-* ![Commercial Software][Money Icon] [Beholder Desktop](https://beholder.vision/desktop) - Easy to use photogrammetry software, free for personal, non-commercial use. Also available as a SaaS.
+* ![Open-Source Software][OSS Icon] [WebODM](https://github.com/OpenDroneMap/WebODM) [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/WebODM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/OpenDroneMap/WebODM/) - User-friendly, commercial-grade software for processing aerial imagery
 
 ## Structure from motion (SFM) software
 
@@ -56,6 +59,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [Bundler](https://github.com/snavely/bundler_sfm/) [![GitHub stars](https://img.shields.io/github/stars/snavely/bundler_sfm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/snavely/bundler_sfm/) - SFM system for unordered image collections
 * ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/) - Structure-from-Motion and Multi-View Stereo
 * ![Open-Source Software][OSS Icon] [openMVG](https://github.com/openMVG/openMVG) [![GitHub stars](https://img.shields.io/github/stars/openMVG/openMVG.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/openMVG/openMVG/) - Multiple View Geometry library
+* ![Open-Source Software][OSS Icon] [openMVS](https://github.com/cdcseacave/openMVS) [![GitHub stars](https://img.shields.io/github/stars/cdcseacave/openMVS.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/cdcseacave/openMVS/) - Open Multi-View Stereo reconstruction library
 * ![Open-Source Software][OSS Icon] [openSFM](https://github.com/mapillary/OpenSfM/) [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mapillary/OpenSfM/) - Structure from Motion library written in Python
 * ![Open-Source Software][OSS Icon] [VisualSFM](http://ccwu.me/vsfm/) - GUI application for 3D reconstruction using SFM
 
@@ -80,7 +84,9 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 ## Datasets and benchmarks
 
 * [Bundle adjustment in the large](https://grail.cs.washington.edu/projects/bal/) - Bundle adjustment data sets for five different scenes (2010)
+* [ETH3D](https://www.eth3d.net/) - Multi-view stereo benchmark with high-resolution images and accurate ground truth (2017)
 * [Hessigheim 3D (H3D) benchmark](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx) - Benchmark on semantic segmentation of high-resolution 3D point clouds and textured meshes (2021)
+* [Tanks and Temples](https://www.tanksandtemples.org/) - Benchmark for image-based 3D reconstruction with realistic indoor and outdoor scenes (2017)
 
 ## Journals
 
@@ -139,8 +145,6 @@ See also:
 * [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) [![GitHub stars](https://img.shields.io/github/stars/openMVG/awesome_3DReconstruction_list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openMVG/awesome_3DReconstruction_list/)
 * [Awesome Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) [![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Yochengliu/awesome-point-cloud-analysis/)
 * [Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) [![GitHub stars](https://img.shields.io/github/stars/mikeroyal/Photogrammetry-Guide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mikeroyal/Photogrammetry-Guide)
-
-
 
 ## License
 
