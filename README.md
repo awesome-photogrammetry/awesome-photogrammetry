@@ -105,16 +105,19 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 ## Journals
 
-* [ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)
-* [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (SNIF=3.006)
-* [Open ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-open-journal-of-photogrammetry-and-remote-sensing)
-* [Photogrammetric Engineering & Remote Sensing (PE&RS)](https://www.asprs.org/asprs-publications/pers) (SNIF=1.425)
-* [PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science](https://www.springer.com/journal/41064) (SNIF=0.682)
-* [Remote Sensing](https://www.mdpi.com/journal/remotesensing) (SNIF=1.661)
-* [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (SNIF=2.943)
-* [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730) (SNIF=1.758)
+* [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) — JIF 2024: 12.2
+* [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) — JIF 2024: 11.4
+* [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) — JIF 2024: 8.6
+* [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) — JIF 2024: 8.6
+* [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443) — JIF 2024: 5.3
+* [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) — JIF 2024: 4.4
+* [Remote Sensing](https://www.mdpi.com/journal/remotesensing) — JIF 2024: 4.1
+* [The Photogrammetric Record](https://onlinelibrary.wiley.com/journal/14779730) — JIF 2024: 3.6
+* [PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science](https://www.springer.com/journal/41064) — JIF 2024: 3.3
+* [Photogrammetric Engineering & Remote Sensing (PE&RS)](https://www.asprs.org/asprs-publications/pers) — JIF 2024: 2.0
+* [Open ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-open-journal-of-photogrammetry-and-remote-sensing) — JIF: n/a
 
-Last update of [source normalized impact factors (SNIF)](https://en.wikipedia.org/wiki/Journal_ranking#SNIP) according to www.journalguide.com: 2021-03-05
+Last update of [Journal Impact Factors (Clarivate JCR 2024)](https://en.wikipedia.org/wiki/Impact_factor): 2026-05-18
 
 See also:
 
