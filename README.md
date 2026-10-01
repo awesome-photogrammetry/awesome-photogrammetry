@@ -48,6 +48,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Commercial Software][Money Icon] [Pix4D](https://www.pix4d.com) - A unique photogrammetry software suite for mobile and drone mapping
 * ![Commercial Software][Money Icon] [PixPro](https://www.pix-pro.com) - Professional photogrammetry for everyone
 * ![Commercial Software][Money Icon] [RealityCapture](https://www.capturingreality.com) - The state-of-the-art photogrammetry software solution that is changing the industry
+* ![Open-Source Software][OSS Icon] [SiliconAperture](https://kluter.github.io/SiliconAperture/) [![GitHub stars](https://img.shields.io/github/stars/kluter/SiliconAperture.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kluter/SiliconAperture/) - Browser-based single-image mensuration using the pinhole camera model, with a built-in camera sensor database
 * ![Commercial Software][Money Icon] [SURE by nFrames](https://www.nframes.com) - Software for 3D reconstruction from images with unique performance and flexibility
 * ![Open-Source Software][OSS Icon] [TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/) - A cross-platform desktop application for photogrammetry
 * ![Commercial Software][Money Icon] [Trimble Inpho](https://geospatial.trimble.com/products-and-solutions/inpho) - Industry Leading Software for Digital Photogrammetry
