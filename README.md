@@ -75,6 +75,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [OpenSplat](https://github.com/pierotofy/OpenSplat) [![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pierotofy/OpenSplat/) - Production-grade 3D Gaussian Splatting in C++ with CPU/GPU support for Windows, Mac, and Linux
 * ![Commercial Software][Money Icon] [Polycam](https://poly.cam/tools/gaussian-splatting) - Mobile and cloud 3D scanning combining LiDAR, photogrammetry, and 3D Gaussian Splatting
 * ![Commercial Software][Money Icon] [Postshot](https://www.jawset.com/) - Desktop app for reconstructing 3D scenes from photos and video using NeRF and 3D Gaussian Splatting, processed locally without cloud
+* ![Commercial Software][Money Icon] [RadianceKit](https://www.radiancekit.de/) - Native macOS app that trains 3D Gaussian Splatting scenes from photos, video and 360° footage locally on Apple silicon with Metal, no cloud
 * ![Commercial Software][Money Icon] [Scaniverse](https://scaniverse.com/) - On-device 3D Gaussian Splatting capture for iOS and Android (by Niantic)
 * ![Open-Source Software][OSS Icon] [SuperSplat](https://superspl.at/) [![GitHub stars](https://img.shields.io/github/stars/playcanvas/supersplat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/playcanvas/supersplat/) - Browser-based editor for 3D Gaussian Splatting scenes (by PlayCanvas)
 
