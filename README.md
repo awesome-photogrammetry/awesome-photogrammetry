@@ -83,6 +83,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [camera_calibration](https://github.com/puzzlepaint/camera_calibration) [![GitHub stars](https://img.shields.io/github/stars/puzzlepaint/camera_calibration.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puzzlepaint/camera_calibration/) - Accurate geometric camera calibration
 * ![Open-Source Software][OSS Icon] [kalibr](https://github.com/ethz-asl/kalibr) [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethz-asl/kalibr/) - Multi-camera, visual-inertial and rolling shutter camera calibration toolbox
 * ![Open-Source Software][OSS Icon] [mrcal](http://mrcal.secretsauce.net) [![GitHub stars](https://img.shields.io/github/stars/dkogan/mrcal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dkogan/mrcal/) - Toolkit for camera calibration and more
+* ![Open-Source Software][OSS Icon] [OpenMVIS](https://openmvis.com) [![GitHub stars](https://img.shields.io/github/stars/openmvis/openmvis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openmvis/openmvis/) - Multi-camera, multi-IMU calibration toolbox: intrinsics, camera-IMU extrinsics and time offset, rolling-shutter readout, board shape
 
 ## Least squares optimization libraries
 
