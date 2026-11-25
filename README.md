@@ -100,6 +100,7 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 
 * [Bundle adjustment in the large](https://grail.cs.washington.edu/projects/bal/) - Bundle adjustment data sets for five different scenes (2010)
 * [ETH3D](https://www.eth3d.net/) - Multi-view stereo benchmark with high-resolution images and accurate ground truth (2017)
+* [FUNES Open 3D Architecture Dataset](https://funes.world/datasets/open-3d-architecture) - Multi-view dataset of 20 buildings across 6 countries (10,594 photos, <1h capture per site) with COLMAP SfM poses and reference photogrammetric OBJ/PLY meshes, CC BY-NC 4.0 (2025)
 * [Hessigheim 3D (H3D) benchmark](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx) - Benchmark on semantic segmentation of high-resolution 3D point clouds and textured meshes (2021)
 * [Tanks and Temples](https://www.tanksandtemples.org/) - Benchmark for image-based 3D reconstruction with realistic indoor and outdoor scenes (2017)
 
